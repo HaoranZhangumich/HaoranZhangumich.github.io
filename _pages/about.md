@@ -27,6 +27,6 @@ latest_posts:
 
 I am a Master’s student in Computer Science at the [University of Michigan](https://umich.edu/), advised by Prof.[Chad Jenkins](https://web.eecs.umich.edu/~ocj/). 
 
-Before that, I completed my bachelor’s degrees in Computer Science and Data Science, also at the University of Michigan (Go blue!!). I previously had the opportunity to work as a research intern in the [CLeAR Lab](https://clear-nus.github.io/) at the [National University of Singapore](https://nus.edu.sg/), advised by Prof.[Harold Soh](https://haroldsoh.com/), and I am currently collaborating remotely with Shanghai AI Lab under the supervision of [Xudong Xu](https://sheldontsui.github.io/). 
+Before that, I completed my bachelor’s degrees in Computer Science and Data Science, also at the University of Michigan (Go blue!!). I previously had the opportunity to work as a research intern in the [CLeAR Lab](https://clear-nus.github.io/) at the [National University of Singapore](https://nus.edu.sg/), advised by Prof.[Harold Soh](https://haroldsoh.com/), and I am currently collaborating remotely with [Shanghai AI Lab](https://www.shlab.org.cn/) under the supervision of [Xudong Xu](https://sheldontsui.github.io/). 
 
 My research interests lie in robot learning, robot manipulation, and the development of benchmarks and simulation tools for evaluating robotic and intelligent systems.

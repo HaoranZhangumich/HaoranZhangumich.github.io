@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-10-21 
 inline: true
 related_posts: false
 ---
-
-A simple inline announcement.
+StarBench: A Turn-Based RPG Benchmark for Agentic Multimodal Decision-Making and Information Seeking  is released on Arxiv. Code is comming soon!
