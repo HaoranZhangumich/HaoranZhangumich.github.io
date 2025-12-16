@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href="https://umich.edu/">University of Michigan</a> · Ann Arbor, MI
 
 profile:
   align: right
@@ -25,8 +25,27 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Master’s student in Computer Science at the [University of Michigan](https://umich.edu/), advised by Prof.[Chad Jenkins](https://web.eecs.umich.edu/~ocj/). 
+I am a Master’s student in Computer Science at the [University of Michigan](https://umich.edu/), advised by Prof. [Chad Jenkins](https://web.eecs.umich.edu/~ocj/).
 
-Before that, I completed my bachelor’s degrees in Computer Science and Data Science, also at the University of Michigan (Go blue!!). I previously had the opportunity to work as a research intern in the [CLeAR Lab](https://clear-nus.github.io/) at the [National University of Singapore](https://nus.edu.sg/), advised by Prof.[Harold Soh](https://haroldsoh.com/), and I am currently collaborating remotely with [Shanghai AI Lab](https://www.shlab.org.cn/) under the supervision of [Xudong Xu](https://sheldontsui.github.io/). 
+Before that, I completed my bachelor’s degrees in Computer Science and Data Science, also at the University of Michigan (Go blue!!). I previously had the opportunity to work as a research intern in the [CLeAR Lab](https://clear-nus.github.io/) at the [National University of Singapore](https://nus.edu.sg/), advised by Prof. [Harold Soh](https://haroldsoh.com/), and I am currently collaborating remotely with [Shanghai AI Lab](https://www.shlab.org.cn/) under the supervision of [Xudong Xu](https://sheldontsui.github.io/).
 
 My research interests lie in robot learning, robot manipulation, and the development of benchmarks and simulation tools for evaluating robotic and intelligent systems.
+
+## Projects
+
+Here are some highlighted projects (see the full list on the [Projects page]({{ "/projects/" | relative_url }})):
+
+{% assign projects_sorted = site.projects | sort: "importance" %}
+{% for p in projects_sorted %}
+{% if p.published != false %}
+- [{{ p.title }}]({{ p.url | relative_url }}) — {{ p.description }}
+{% endif %}
+{% endfor %}
+
+## Publications
+
+### Selected
+{% bibliography --query @*[selected=true] %}
+
+### All
+See the full list on the [Publications page]({{ "/publications/" | relative_url }}).
