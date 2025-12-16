@@ -2,11 +2,16 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Teaching experience and course materials.
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+## Teaching
 
-Organize your courses by years, topics, or universities, however you like!
+### Autonomous Robotics — https://autorob.org/
+**Graduate Instructor** *(2025.01 – 2025.05)*  
+Led graduate-level instruction and supported course operations. The course covers key topics in autonomous robotics including perception, state estimation, planning, and control, with hands-on assignments/projects.
+
+**Instructor Assistant** *(2024.01 – 2024.05)*  
+Assisted with course delivery through office hours, assignment support, and mentoring students on projects.
