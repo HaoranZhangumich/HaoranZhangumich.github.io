@@ -9,7 +9,7 @@ nav_order: 6
 
 ## Teaching
 
-### Autonomous Robotics — https://autorob.org/
+### [Autonomous Robotics](https://autorob.org/)
 **Graduate Instructor** *(2025.01 – 2025.05)*  
 Led graduate-level instruction and supported course operations. The course covers key topics in autonomous robotics including perception, state estimation, planning, and control, with hands-on assignments/projects.
 

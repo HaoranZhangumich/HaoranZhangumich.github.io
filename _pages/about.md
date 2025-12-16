@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href="https://umich.edu/">University of Michigan</a> · Ann Arbor, MI · <a href="haoranwh@umich.edu">haoranwh@umich.edu</a>
 
 profile:
   align: right
