@@ -32,4 +32,4 @@ Before that, I completed my bachelor’s degrees in Computer Science and Data Sc
 
 My research interests lie in robot learning, robot manipulation, and the development of benchmarks and simulation tools for evaluating robotic and intelligent systems.
 
-*Currently:** seeking PhD opportunities starting Fall 2026 (open to collaboration and research discussions).
+**Currently:** seeking PhD opportunities starting Fall 2026 (open to collaboration and research discussions).
