@@ -6,7 +6,7 @@ subtitle: <a href="https://umich.edu/">University of Michigan</a> · Ann Arbor, 
 
 profile:
   align: right
-  image: profile.png
+  image: profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Ann Arbor, MI 48105</p>
