@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="https://umich.edu/">University of Michigan</a> · Ann Arbor, MI · <a href="haoranwh@umich.edu">haoranwh@umich.edu</a>
+subtitle: <a href="https://umich.edu/">University of Michigan</a> · Ann Arbor, MI · <a href="mailto:haoranwh@umich.edu">haoranwh@umich.edu</a>
+
 
 profile:
   align: right
@@ -30,3 +31,5 @@ I am a Master’s student in Computer Science at the [University of Michigan](ht
 Before that, I completed my bachelor’s degrees in Computer Science and Data Science, also at the University of Michigan (Go blue!!). I previously had the opportunity to work as a research intern in the [CLeAR Lab](https://clear-nus.github.io/) at the [National University of Singapore](https://nus.edu.sg/), advised by Prof.[Harold Soh](https://haroldsoh.com/), and I am currently collaborating remotely with [Shanghai AI Lab](https://www.shlab.org.cn/) under the supervision of [Xudong Xu](https://sheldontsui.github.io/). 
 
 My research interests lie in robot learning, robot manipulation, and the development of benchmarks and simulation tools for evaluating robotic and intelligent systems.
+
+*Currently:** seeking PhD opportunities starting Fall 2026 (open to collaboration and research discussions).
