@@ -418,7 +418,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/Zhang_Resume", "_blank");
+          window.open("/assets/pdf/Zhang_Resume.pdf", "_blank");
         },
       },{
         id: 'social-email',
@@ -433,6 +433,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://github.com/HaoranZhangumich", "_blank");
+        },
+      },{
+        id: 'social-scholar',
+        title: 'Google Scholar',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://scholar.google.com/citations?user=BrA5fjoAAAAJ", "_blank");
         },
       },{
       id: 'light-theme',
