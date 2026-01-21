@@ -1,12 +1,16 @@
 metadata:
-  last_updated: '2025-12-31'
+  last_updated: '2026-01-21'
 papers:
+  BrA5fjoAAAAJ:9yKSN-GCB0IC:
+    citations: 0
+    title: 'RoboVIP: Multi-View Video Generation with Visual Identity Prompting Augments Robot Manipulation'
+    year: '2026'
   BrA5fjoAAAAJ:d1gkVwhDpl0C:
     citations: 0
     title: SO (2)-Equivariant Single-View 3D Reconstruction via Gaussian Sculpting Networks
     year: Unknown Year
   BrA5fjoAAAAJ:u-x6o8ySG0sC:
-    citations: 30
+    citations: 31
     title: 'Iac-eval: A code generation benchmark for cloud infrastructure-as-code programs'
     year: '2024'
   BrA5fjoAAAAJ:u5HHmVD_uO8C:
