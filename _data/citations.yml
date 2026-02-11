@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-21'
+  last_updated: '2026-02-11'
 papers:
   BrA5fjoAAAAJ:9yKSN-GCB0IC:
     citations: 0
@@ -10,10 +10,10 @@ papers:
     title: SO (2)-Equivariant Single-View 3D Reconstruction via Gaussian Sculpting Networks
     year: Unknown Year
   BrA5fjoAAAAJ:u-x6o8ySG0sC:
-    citations: 31
+    citations: 36
     title: 'Iac-eval: A code generation benchmark for cloud infrastructure-as-code programs'
     year: '2024'
   BrA5fjoAAAAJ:u5HHmVD_uO8C:
-    citations: 0
-    title: 'StarBench: A Turn-Based RPG Benchmark for Agentic Multimodal Decision-Making and Information Seeking'
+    citations: 1
+    title: 'Starbench: A turn-based rpg benchmark for agentic multimodal decision-making and information seeking'
     year: '2025'
