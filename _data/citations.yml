@@ -1,9 +1,9 @@
 metadata:
-  last_updated: '2026-03-30'
+  last_updated: '2026-04-10'
 papers:
   BrA5fjoAAAAJ:2osOgNQ5qMEC:
-    citations: 1
-    title: 'RoboMME: Benchmarking and Understanding Memory for Robotic Generalist Policies'
+    citations: 2
+    title: 'Robomme: Benchmarking and understanding memory for robotic generalist policies'
     year: '2026'
   BrA5fjoAAAAJ:9yKSN-GCB0IC:
     citations: 0
@@ -14,7 +14,7 @@ papers:
     title: SO (2)-Equivariant Single-View 3D Reconstruction via Gaussian Sculpting Networks
     year: Unknown Year
   BrA5fjoAAAAJ:u-x6o8ySG0sC:
-    citations: 37
+    citations: 39
     title: 'Iac-eval: A code generation benchmark for cloud infrastructure-as-code programs'
     year: '2024'
   BrA5fjoAAAAJ:u5HHmVD_uO8C:
