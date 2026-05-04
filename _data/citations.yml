@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-10'
+  last_updated: '2026-05-04'
 papers:
   BrA5fjoAAAAJ:2osOgNQ5qMEC:
     citations: 2
@@ -14,7 +14,7 @@ papers:
     title: SO (2)-Equivariant Single-View 3D Reconstruction via Gaussian Sculpting Networks
     year: Unknown Year
   BrA5fjoAAAAJ:u-x6o8ySG0sC:
-    citations: 39
+    citations: 42
     title: 'Iac-eval: A code generation benchmark for cloud infrastructure-as-code programs'
     year: '2024'
   BrA5fjoAAAAJ:u5HHmVD_uO8C:
