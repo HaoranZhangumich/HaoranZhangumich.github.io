@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-05-04'
+  last_updated: '2026-05-15'
 papers:
   BrA5fjoAAAAJ:2osOgNQ5qMEC:
-    citations: 2
+    citations: 4
     title: 'Robomme: Benchmarking and understanding memory for robotic generalist policies'
     year: '2026'
   BrA5fjoAAAAJ:9yKSN-GCB0IC:
