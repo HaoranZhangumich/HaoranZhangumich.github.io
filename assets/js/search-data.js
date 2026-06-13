@@ -405,8 +405,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-honored-to-serve-as-a-workshop-chair-at-aaai-2026",
-          title: 'Honored to serve as a Workshop Chair at AAAI 2026!',
+            },},{id: "news-honored-to-serve-as-a-workflow-chair-at-aaai-2026",
+          title: 'Honored to serve as a Workflow Chair at AAAI 2026!',
           description: "",
           section: "News",},{id: "news-starbench-a-turn-based-rpg-benchmark-for-agentic-multimodal-decision-making-and-information-seeking-is-released-on-arxiv-code-is-comming-soon",
           title: 'StarBench: A Turn-Based RPG Benchmark for Agentic Multimodal Decision-Making and Information Seeking is...',
