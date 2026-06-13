@@ -27,9 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I received my Master’s degree in Computer Science from the [University of Michigan](https://umich.edu/), where I was advised by Prof. [Chad Jenkins](https://web.eecs.umich.edu/~ocj/). I will be joining [MBZUAI](https://mbzuai.ac.ae/) as an incoming PhD student, advised by Prof. [Xingxing Zuo](https://xingxingzuo.github.io/).
+I received my Master’s and Bachelor’s degrees in Computer Science (and Data Science) from the [University of Michigan](https://umich.edu/) (Go blue!!), where I was advised by Prof. [Chad Jenkins](https://web.eecs.umich.edu/~ocj/). I will be joining [MBZUAI](https://mbzuai.ac.ae/) as an incoming PhD student, advised by Prof. [Xingxing Zuo](https://xingxingzuo.github.io/).
 
-I also completed my bachelor’s degrees in Computer Science and Data Science at the University of Michigan (Go blue!!). I previously had the opportunity to work as a research intern in the [CLeAR Lab](https://clear-nus.github.io/) at the [National University of Singapore](https://nus.edu.sg/), advised by Prof. [Harold Soh](https://haroldsoh.com/), and I have been collaborating remotely with [Shanghai AI Lab](https://www.shlab.org.cn/) under the supervision of [Xudong Xu](https://sheldontsui.github.io/).
+I previously worked as a research intern in the [CLeAR Lab](https://clear-nus.github.io/) at the [National University of Singapore](https://nus.edu.sg/), advised by Prof. [Harold Soh](https://haroldsoh.com/), and have been collaborating remotely with [Shanghai AI Lab](https://www.shlab.org.cn/) under the supervision of [Xudong Xu](https://sheldontsui.github.io/).
 
 My research interests lie in robot learning, robot manipulation, and the development of benchmarks and simulation tools for evaluating robotic and intelligent systems.
 
