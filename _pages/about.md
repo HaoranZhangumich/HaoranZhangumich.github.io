@@ -11,6 +11,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Ann Arbor, MI 48105</p>
+    <p><em>May all the beauty be blessed.</em></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -36,6 +37,3 @@ My research interests lie in robot learning, robot manipulation, and the develop
 
 I am deeply grateful to my peer advisors — [Boyang Wang](https://kiteretsu77.github.io/BoyangWang/), [Yinpei Dai](https://yinpeidai.github.io/), and [Ce Hao](https://cehao1.github.io/) — for their generous guidance, connection, and mentorship throughout my PhD application journey and research growth. Thank you!
 
----
-
-*May all the beauty be blessed.*
