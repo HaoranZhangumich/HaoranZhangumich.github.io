@@ -447,6 +447,13 @@ ninja.data = [{
           window.open("https://github.com/HaoranZhangumich", "_blank");
         },
       },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/haoran-zhang-6556b1251", "_blank");
+        },
+      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
