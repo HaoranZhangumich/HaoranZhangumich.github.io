@@ -34,6 +34,8 @@ My research interests lie in robot learning, robot manipulation, and the develop
 
 **Currently:** Research intern at [Unitree Robotics](https://www.unitree.com/), working on humanoid robots and dexterous hands.
 
+I am deeply grateful to my peer advisors — [Boyang Wang](https://kiteretsu77.github.io/BoyangWang/), [Yinpei Dai](https://yinpeidai.github.io/), and [Ce Hao](https://cehao1.github.io/) — for their generous guidance, connection, and mentorship throughout my PhD application journey and research growth. Thank you!
+
 ---
 
 *May all the beauty be blessed.*
