@@ -405,7 +405,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-starbench-a-turn-based-rpg-benchmark-for-agentic-multimodal-decision-making-and-information-seeking-is-released-on-arxiv-code-is-comming-soon",
+            },},{id: "news-honored-to-serve-as-a-workshop-chair-at-aaai-2026",
+          title: 'Honored to serve as a Workshop Chair at AAAI 2026!',
+          description: "",
+          section: "News",},{id: "news-starbench-a-turn-based-rpg-benchmark-for-agentic-multimodal-decision-making-and-information-seeking-is-released-on-arxiv-code-is-comming-soon",
           title: 'StarBench: A Turn-Based RPG Benchmark for Agentic Multimodal Decision-Making and Information Seeking is...',
           description: "",
           section: "News",},{id: "news-i-will-be-joining-mbzuai-as-an-incoming-phd-student-advised-by-prof-xingxing-zuo-looking-forward-to-the-next-chapter",
