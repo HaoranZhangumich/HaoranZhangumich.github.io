@@ -1,34 +1,56 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+# Co-author URLs — last name (lowercase) maps to profile pages
+# These make author names in the publications list clickable
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"jenkins":
+  - firstname: ["Odest Chadwicke", "Odest", "O. C.", "O.C."]
+    url: https://ocj.name/
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"soh":
+  - firstname: ["Harold", "H."]
+    url: https://haroldsoh.com/
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"xu":
+  - firstname: ["Xudong", "X."]
+    url: https://sheldontsui.github.io/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"zuo":
+  - firstname: ["Xingxing", "X."]
+    url: https://xingxingzuo.github.io/
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"lu":
+  - firstname: ["Yifu", "Y."]
+    url: https://scholar.google.com/citations?user=ybsmKpsAAAAJ&hl=en
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"wang":
+  - firstname: ["Boyang", "B."]
+    url: https://kiteretsu77.github.io/BoyangWang/
+  - firstname: ["Mengdi", "M."]
+    url: https://scholar.google.com/citations?user=33yNvIgAAAAJ&hl=en
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"cheng":
+  - firstname: ["Zezhou", "Z."]
+    url: https://www.cs.virginia.edu/~zc3bp/
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"kuo":
+  - firstname: ["Yen-Ling", "Y.", "Y.-L."]
+    url: https://yenlingkuo.com/
+
+"kang":
+  - firstname: ["Xuhui", "X."]
+    url: https://scholar.google.com/citations?user=sIY8FtgAAAAJ&hl=en
+
+"finn":
+  - firstname: ["Chelsea", "C."]
+    url: https://ai.stanford.edu/~cbfinn/
+
+"chai":
+  - firstname: ["Joyce", "J."]
+    url: https://sites.google.com/view/joycechai
+
+"pang":
+  - firstname: ["Jiangmiao", "J."]
+    url: https://oceanpang.github.io/
+
+"zhu":
+  - firstname: ["Chenhao", "C."]
+    url: https://chenhao-zhu.com/

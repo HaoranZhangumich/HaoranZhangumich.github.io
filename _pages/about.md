@@ -18,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
@@ -33,3 +33,7 @@ I also completed my bachelor’s degrees in Computer Science and Data Science at
 My research interests lie in robot learning, robot manipulation, and the development of benchmarks and simulation tools for evaluating robotic and intelligent systems.
 
 **Currently:** Research intern at [Unitree Robotics](https://www.unitree.com/), working on humanoid robots and dexterous hands.
+
+---
+
+*May all the beauty be blessed.*
