@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-06-29'
+  last_updated: '2026-07-01'
 papers:
   BrA5fjoAAAAJ:2osOgNQ5qMEC:
-    citations: 17
+    citations: 18
     title: 'Robomme: Benchmarking and understanding memory for robotic generalist policies'
     year: '2026'
   BrA5fjoAAAAJ:9yKSN-GCB0IC:
@@ -18,7 +18,7 @@ papers:
     title: 'Foresight: Failure Detection for Long-Horizon Robotic Manipulation with Action-Conditioned World Model Latents'
     year: '2026'
   BrA5fjoAAAAJ:u-x6o8ySG0sC:
-    citations: 45
+    citations: 47
     title: 'Iac-eval: A code generation benchmark for cloud infrastructure-as-code programs'
     year: '2024'
   BrA5fjoAAAAJ:u5HHmVD_uO8C:
