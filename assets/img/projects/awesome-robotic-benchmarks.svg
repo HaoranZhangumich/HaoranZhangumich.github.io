@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 450" width="720" height="450" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fbf6ea"/>
+      <stop offset="1" stop-color="#f1e6cd"/>
+    </linearGradient>
+    <filter id="sh" x="-10%" y="-10%" width="120%" height="130%">
+      <feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#17355a" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+  <rect width="720" height="450" fill="url(#bg)"/>
+  <circle cx="650" cy="40" r="130" fill="#e3c47f" opacity="0.22"/>
+  <circle cx="40" cy="440" r="100" fill="#e3c47f" opacity="0.16"/>
+
+  <text x="48" y="80" font-family="Georgia, 'Times New Roman', serif" font-size="40" font-weight="700" fill="#17355a">Awesome Robotic</text>
+  <text x="48" y="126" font-family="Georgia, 'Times New Roman', serif" font-size="40" font-weight="700" fill="#9a6f1c">Benchmarks</text>
+  <rect x="48" y="142" width="56" height="4" rx="2" fill="#e3c47f"/>
+  <text x="48" y="174" font-size="18" fill="#546072">A curated list for evaluating robots</text>
+
+  <g filter="url(#sh)">
+    <rect x="48" y="198" width="624" height="214" rx="16" fill="#ffffff"/>
+  </g>
+  <g font-size="21" fill="#13233a">
+    <g transform="translate(76 230)">
+      <rect width="14" height="14" rx="4" y="-12" fill="#17355a"/>
+      <text x="28" y="0">Manipulation, navigation and locomotion benchmarks</text>
+    </g>
+    <line x1="76" y1="252" x2="644" y2="252" stroke="#ece6d8" stroke-width="2"/>
+    <g transform="translate(76 282)">
+      <rect width="14" height="14" rx="4" y="-12" fill="#c9a24b"/>
+      <text x="28" y="0">Simulators and environments</text>
+    </g>
+    <line x1="76" y1="304" x2="644" y2="304" stroke="#ece6d8" stroke-width="2"/>
+    <g transform="translate(76 334)">
+      <rect width="14" height="14" rx="4" y="-12" fill="#163c63"/>
+      <text x="28" y="0">Datasets for evaluation</text>
+    </g>
+    <line x1="76" y1="356" x2="644" y2="356" stroke="#ece6d8" stroke-width="2"/>
+    <g transform="translate(76 386)">
+      <rect width="14" height="14" rx="4" y="-12" fill="#e5c687"/>
+      <text x="28" y="0">Metrics and evaluation protocols</text>
+    </g>
+  </g>
+</svg>

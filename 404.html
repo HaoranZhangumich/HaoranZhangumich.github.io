@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Page not found | Haoran Zhang</title>
+  <meta name="robots" content="noindex">
+  <link rel="icon" href="/assets/img/favicon.svg" type="image/svg+xml">
+  <script>
+    // Old al-folio addresses -> their place on the new one-page site.
+    (function () {
+      var p = location.pathname.replace(/\/+$/, "/").toLowerCase();
+      if (!/\.[a-z0-9]+$/.test(p) && p.slice(-1) !== "/") p += "/";
+      var map = {
+        "/assets/pdf/zhang_resume.pdf": "/assets/pdf/Haoran_Zhang_CV.pdf",
+        "/cv/": "/assets/pdf/Haoran_Zhang_CV.pdf",
+        "/publications/": "/#publications",
+        "/projects/": "/#projects",
+        "/projects/awesome_robotic_benchmark/": "/#projects",
+        "/teaching/": "/#service",
+        "/news/": "/#news",
+        "/repositories/": "https://github.com/HaoranZhangumich",
+        "/blog/": "/",
+        "/about/": "/"
+      };
+      if (map[p]) location.replace(map[p]);
+    })();
+    try { var t = localStorage.getItem("theme"); if (t === "dark" || t === "light") document.documentElement.setAttribute("data-theme", t); } catch (e) {}
+  </script>
+  <link rel="stylesheet" href="/assets/css/style.css">
+  <style>
+    .nf { min-height: 70vh; display: flex; flex-direction: column; justify-content: center; align-items: flex-start; gap: 8px; }
+    .nf h1 { font-family: var(--serif); font-size: 36px; margin: 0; color: var(--navy); }
+    .nf p { margin: 0; color: var(--muted); }
+  </style>
+</head>
+<body>
+  <main class="container nf">
+    <h1>Page not found</h1>
+    <p>This page moved when the site was redesigned.</p>
+    <p><a href="/">Go to the homepage &rarr;</a></p>
+  </main>
+</body>
+</html>
