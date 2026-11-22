@@ -913,3 +913,10 @@ footer .container {
     scroll-behavior: auto;
   }
 }
+
+/* ---------- visitor map (MapMyVisitors widget) ---------- */
+.visitor-map {
+  max-width: 420px;
+  border-radius: 10px;
+  overflow: hidden;
+}
