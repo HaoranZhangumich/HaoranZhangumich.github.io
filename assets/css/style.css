@@ -505,16 +505,6 @@ section.block {
 .media .cap.right {
   left: calc(50% + 7px);
 }
-/* label above the human-demo inset (inset = right 10px, bottom 10px, 190px of a 720x450 clip) */
-.media .cap.inset {
-  top: auto;
-  right: 1.4%;
-  bottom: calc(44.4% + 4px);
-}
-.media.has-inset .vid-toggle {
-  top: 8px;
-  bottom: auto;
-}
 .vid-toggle {
   position: absolute;
   right: 8px;
