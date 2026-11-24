@@ -94,7 +94,11 @@
     <ul class="news">
       <li class="hot">
         <time datetime="2026-11">Nov 2026</time>
-        <div><span class="tag">Award</span> I led our team to <strong>2nd place in Track 2</strong> (Robotic Grounding) and the <strong>Track 2 Industry Innovation Award</strong> at the <a href="https://nvidia-isaac.github.io/video_to_data/v2d_challenge/">NVIDIA Video-to-Data (V2D) Challenge</a>, announced at the <a href="https://nvidia-isaac.github.io/video_to_data/v2d_corl_tutorial/">CoRL 2026 tutorial</a> in Austin. Paper coming soon!</div>
+        <div><span class="tag">Paper</span> Our paper <a href="https://rcl-robotics.github.io/Dexduet.io/">DexDuet</a>, on learning contact-preserving bimanual dexterity from human demonstrations, is out on <a href="https://arxiv.org/abs/2611.30495">arXiv</a>!</div>
+      </li>
+      <li class="hot">
+        <time datetime="2026-11">Nov 2026</time>
+        <div><span class="tag">Award</span> I led our team to <strong>2nd place in Track 2</strong> (Robotic Grounding) and the <strong>Track 2 Industry Innovation Award</strong> at the <a href="https://nvidia-isaac.github.io/video_to_data/v2d_challenge/">NVIDIA Video-to-Data (V2D) Challenge</a>, announced at the <a href="https://nvidia-isaac.github.io/video_to_data/v2d_corl_tutorial/">CoRL 2026 tutorial</a> in Austin. Our entry is built on <a href="#dexduet">DexDuet</a>.</div>
       </li>
       <li>
         <time datetime="2026-06">Jun 2026</time>
@@ -119,6 +123,26 @@
   <section id="publications" class="block">
     <div class="block-head"><h2>Publications</h2><span class="note">* equal contribution</span></div>
     <div class="items">
+
+      <article class="item" id="dexduet">
+        <div class="media white">
+          <video data-autoplay muted loop playsinline preload="metadata" poster="assets/img/pubs/dexduet.jpg" width="720" height="450" aria-label="Left: a human demonstration in which two hands hold a game controller, then a jar; right: two robot hands on robot arms doing the same in simulation, holding the objects where the human does">
+            <source src="assets/img/pubs/dexduet.mp4" type="video/mp4">
+          </video>
+          <span class="cap left">Human demo</span>
+          <span class="cap right">Robot policy</span>
+          <button class="vid-toggle is-paused" type="button" aria-label="Play video"><svg class="icon-pause" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><rect x="6" y="5" width="4" height="14" rx="1"/><rect x="14" y="5" width="4" height="14" rx="1"/></svg><svg class="icon-play" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5.5v13a1 1 0 0 0 1.5.86l10.5-6.5a1 1 0 0 0 0-1.72L9.5 4.64A1 1 0 0 0 8 5.5z"/></svg></button>
+        </div>
+        <div class="item-body">
+          <div class="badges"><span class="badge">Under review</span></div>
+          <h3><a href="https://rcl-robotics.github.io/Dexduet.io/">DexDuet: Learning Contact-Preserving Bimanual Dexterity from Human Demonstrations</a></h3>
+          <p class="authors"><span class="me">Haoran Zhang</span>, Haokai&nbsp;Ding, Han&nbsp;Zhou, Zuxing&nbsp;Lu, Heng&nbsp;Zhang, <a href="https://xingxingzuo.github.io/">Xingxing Zuo</a></p>
+          <div class="btns">
+            <a href="https://rcl-robotics.github.io/Dexduet.io/">Project</a>
+            <a href="https://arxiv.org/abs/2611.30495">arXiv</a>
+          </div>
+        </div>
+      </article>
 
       <article class="item">
         <div class="media white">
@@ -211,10 +235,11 @@
             <span class="badge">Team Leader</span>
           </div>
           <h3><a href="https://nvidia-isaac.github.io/video_to_data/v2d_challenge/">NVIDIA Video-to-Data (V2D) Challenge, CoRL 2026 Tutorial</a></h3>
-          <p class="desc">I led our team in Track 2 (Robotic Grounding), where human&ndash;object interaction demonstrations are turned into policies for a Unitree G1 humanoid with Dex3 hands, from clean multi-view capture to noisy reconstructions. Shown: a human demonstration (left) and our final policy reproducing it in simulation (right).</p>
+          <p class="desc">I led our team in Track 2 (Robotic Grounding), where human&ndash;object interaction demonstrations are turned into policies for a Unitree G1 humanoid with Dex3 hands, from clean multi-view capture to noisy reconstructions. Our entry is built on <a href="#dexduet">DexDuet</a>. Shown: a human demonstration (left) and our final policy reproducing it in simulation (right).</p>
           <div class="btns">
             <a href="https://nvidia-isaac.github.io/video_to_data/v2d_challenge/">Challenge</a>
-            <span class="soon">Paper: coming soon</span>
+            <a href="https://arxiv.org/abs/2611.30495">Paper</a>
+            <a href="https://rcl-robotics.github.io/Dexduet.io/">Project</a>
           </div>
           <p class="credit">Task data: <a href="https://huggingface.co/datasets/nvidia/video_to_data_challenge">NVIDIA V2D Challenge dataset</a> (<a rel="license" href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>), rendered in our simulation rollout.</p>
         </div>
